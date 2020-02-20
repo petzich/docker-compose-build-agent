@@ -1,3 +1,9 @@
+## 1.2.1 / 2020-02-20
+
+### Changed
+
+* Update base image
+
 ## 1.2.0 / 2019-10-23
 
 ### Added
