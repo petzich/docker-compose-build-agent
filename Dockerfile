@@ -1,4 +1,4 @@
-FROM docker:20.10.7
+FROM docker:20.10.11
 
 COPY requirements.txt .
 RUN apk add --no-cache \
